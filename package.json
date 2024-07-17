@@ -1,0 +1,29 @@
+{
+  "name": "tut",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/haseebzahid12345/nodejs_codeStepByStep_9hours_tutorial.git"
+  },
+  "keywords": [
+    "code",
+    "step",
+    "by",
+    "step"
+  ],
+  "author": "haseeb zahid",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/haseebzahid12345/nodejs_codeStepByStep_9hours_tutorial/issues"
+  },
+  "homepage": "https://github.com/haseebzahid12345/nodejs_codeStepByStep_9hours_tutorial#readme",
+  "description": "",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "simple-node-logger": "^21.8.12"
+  }
+}

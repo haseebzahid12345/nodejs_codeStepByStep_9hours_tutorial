@@ -8,3 +8,6 @@ const result =arr.filter((item)=>{
     
 });
 console.warn(result);
+
+const colors = require ('colors');
+console.log("package.json".red);
